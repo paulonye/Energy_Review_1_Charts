@@ -1,6 +1,6 @@
 # Understanding Oil Price CHARTS
 
-This contains the code used to plot all diagrams used in the ` Understaaanding Oil Price Section` of the Energy Review.
+This contains the code used to plot all diagrams used in the ` Understanding Oil Price Section` of the Energy Review.
 
 Python programming language was used for the entire project
 
